@@ -1,8 +1,8 @@
-## Hi there, I'm Augusto Piana👋
+# Hi there, I'm Augusto Piana👋
 
 I'm an enthusiastic software developer, actively engaged in diverse projects focusing on full-stack web development and backend architecture. My efforts include crafting applications with cutting-edge technologies such as Java, React, and Spring, driven by a deep passion for tackling intricate challenges through elegant, scalable designs.
 
-### 🎯 Projects
+## 🎯 Projects
  🟢 MercadoLibre Conceptual Clone: A conceptual development of the MercadoLibre website for educational purposes, using React, Tailwind, and API integration.
      (https://github.com/unq-ui/2024s2-Grupo01.git)
 
@@ -15,7 +15,7 @@ I'm an enthusiastic software developer, actively engaged in diverse projects foc
  🟢 Parking Meter System: Development of a metered parking system,for managing street parking, integrating mobile access as payment methods.
     (https://github.com/NahuelGia/unq-poo2-tpfinal.git)
 
-# 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -44,7 +44,7 @@ I'm an enthusiastic software developer, actively engaged in diverse projects foc
 
 ---
 
-# 🤝 Conecta conmigo:
+## 🤝 Conecta conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustopiana)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/augustopiana)
 
