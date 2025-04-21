@@ -3,8 +3,12 @@
 I'm an enthusiastic software developer, actively engaged in diverse projects focusing on full-stack web development and backend architecture. My efforts include crafting applications with cutting-edge technologies such as Java, React, and Spring, driven by a deep passion for tackling intricate challenges through elegant, scalable designs.
 
 ## 🎯 Projects
+ 
+ 🟡 MyCareer: An academic management platform  that allows you to intuitively view your academic progress, see recommendations for upcoming courses, and present a calendar of academic schedules.
+    (https://github.com/NahuelGia/MyCareer)
+ 
  🟢 MercadoLibre Conceptual Clone: A conceptual development of the MercadoLibre website for educational purposes, using React, Tailwind, and API integration.
-     (https://github.com/unq-ui/2024s2-Grupo01.git)
+    (https://github.com/unq-ui/2024s2-Grupo01.git)
 
  🟢 Memory Test: A small project where I represent the Memory Test Game, I was inspired by some band to do it. 
     (https://github.com/augustopiana/unq-ui-augusto-piana-trabajo-final.git) 
