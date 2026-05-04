@@ -4,9 +4,7 @@ I'm an enthusiastic software developer, actively engaged in diverse projects foc
 
 ## 🎯 Projects
  
- 🟡 MyCareer: An academic management platform  that allows you to intuitively view your academic progress, see recommendations for upcoming courses, and present a calendar of academic schedules.
-    (https://github.com/NahuelGia/MyCareer)
- 
+
  🟢 MercadoLibre Conceptual Clone: A conceptual development of the MercadoLibre website for educational purposes, using React, Tailwind, and API integration.
     (https://github.com/unq-ui/2024s2-Grupo01.git)
 
